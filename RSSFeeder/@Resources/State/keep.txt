@@ -1,0 +1,2 @@
+State folder marker. Read/unread state and collapse flags live here
+as B<N>.state files (one per feed block). Delete this file freely.

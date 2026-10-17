@@ -1,0 +1,8 @@
+# personal data - not for the public repo
+RSSFeeder/@Resources/Feeds.inc
+RSSFeeder/@Resources/State/*.state
+RSSFeeder/Blocks/
+
+# OS / tooling noise
+Thumbs.db
+.DS_Store
